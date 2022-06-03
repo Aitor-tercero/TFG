@@ -8,7 +8,7 @@ import moviles from 'src/app/files/moviles.json';
 })
 export class MovilesComponent implements OnInit {
 
-  moviless : {imagen: string, marca: string, modelo: string, tamano: string, url: string}[] = moviles;
+  moviless : {imagen: string, marca: string, modelo: string, tamano: string, precio: string, url: string}[] = moviles;
 
   constructor() { }
 

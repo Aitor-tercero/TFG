@@ -8,7 +8,7 @@ import camisetasfutbol from 'src/app/files/camisetasfutbol.json';
 })
 export class CamisetasfutbolComponent implements OnInit {
 
-  camisetas : {imagen: string, equipo: string, division: string, url: string}[] = camisetasfutbol;
+  camisetas : {imagen: string, equipo: string, division: string, precio: string, url: string}[] = camisetasfutbol;
 
   constructor() { }
 

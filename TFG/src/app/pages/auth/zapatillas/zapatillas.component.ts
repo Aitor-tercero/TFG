@@ -8,7 +8,7 @@ import zapatillas from 'src/app/files/zapatillas.json';
 })
 export class ZapatillasComponent implements OnInit {
 
-  zapatillass : {imagen: string, marca: string, modelo: string, url: string}[] = zapatillas;
+  zapatillass : {imagen: string, marca: string, modelo: string, precio: string, url: string}[] = zapatillas;
 
   constructor() { }
 

@@ -4,6 +4,7 @@
     "marca": "APPLE",
     "modelo": "IPHONE 13",
     "tamano": "128GB",
+    "precio": "713,78€",
     "url": "https://www.dalionstore.com/p9941449-apple-iphone-13-128gb-green.html?gclid=Cj0KCQjw-daUBhCIARIsALbkjSYjnVxCY1NM57WUz7zF_EtJ7Oq_2ktGxX2BKNOI598n1Dli4SWv9vIaAiDzEALw_wcB"
   },
   {
@@ -11,6 +12,7 @@
     "marca": "XIOAMI",
     "modelo": "XIAOMI 11 LITE",
     "tamano": "128GB",
+    "precio": "349€",
     "url": "https://www.mediamarkt.es/es/product/_movil-xiaomi-11-lite-5g-ne-negro-trufa-128-gb-6-gb-ram-655-fhd-snapdragon-778g-4250mah-android-1519510.html"
   },
   {
@@ -18,6 +20,7 @@
     "marca": "HUAWEI",
     "modelo": "HUAWEI P8 LITE",
     "tamano": "64GB",
+    "precio": "121€",
     "url": "https://www.backmarket.es/huawei-huawei-p8-lite-64-gb-negro-libre-segunda-mano/458483.html?shopping=gmc&gclid=Cj0KCQjw-daUBhCIARIsALbkjSbmSqjLYYoXCMZLbPaBQKlx_nZp-ie9bUyx1jdlwdRMjugnzAyZ5p0aAkCwEALw_wcB#?l=12"
   },
   {
@@ -25,6 +28,7 @@
     "marca": "SAMSUNG",
     "modelo": "SAMSUNG GALAXY A03",
     "tamano": "64GB",
+    "precio": "129€",
     "url": "https://www.mediamarkt.es/es/product/_movil-samsung-samsung-galaxy-a03-4g-negro-64-gb-4-gb-65-hd-16-ghz-5000-mah-android-1532991.html?ds_rl=1280902&ds_rl=1280902&gclid=Cj0KCQjw-daUBhCIARIsALbkjSYDGbzr_mfz-0-_NRKYuTYRydO1k-A5GzIj43EISVMWcWY8xc3ItRcaAv2UEALw_wcB&gclsrc=aw.ds&utm_campaign=rt_shopping_generic_nsp_na_es-nacional&utm_medium=cpc&utm_source=google"
   },
   {
@@ -32,6 +36,7 @@
     "marca": "MOTOROLA",
     "modelo": "MOTOROLA G22",
     "tamano": "128GB",
+    "precio": "159€",
     "url": "https://www.amazon.es/Motorola-Pantalla-sistema-c%C3%A1maras-Android/dp/B09VPLRR3W/ref=sr_1_2_sspa?crid=1TLF95W2HCB45&keywords=motorola&qid=1654007876&s=electronics&sprefix=motorola%2Celectronics%2C87&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQ1pQS09LUElMTkw4JmVuY3J5cHRlZElkPUEwODI5OTU1MTVHV1I3NlY5VEoyNyZlbmNyeXB0ZWRBZElkPUEwOTMyNTEyQlRTTVNRMEtKQlc1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
   },
   {
@@ -39,6 +44,7 @@
     "marca": "SONY",
     "modelo": "SONY XPERIA L1",
     "tamano": "16GB",
+    "precio": "129€",
     "url": "https://www.elcorteingles.es/electronica/A22377149-sony-xperia-l1-16-gb-blanco-movil-libre/"
   },
   {
@@ -46,6 +52,7 @@
     "marca": "OPPO",
     "modelo": "OPPO A74",
     "tamano": "128GB",
+    "precio": "205,79€",
     "url": "https://www.worten.es/productos/moviles-smartphones/smartphones/oppo/smartphone-oppo-a74-643-6-gb-128-gb-negro-7396963?gclid=Cj0KCQjw-daUBhCIARIsALbkjSaSWDhd_8jgw4kKl9tgifS0mq2KE7fb7ur2VtA6S_ALXq8CO5ZnUbQaAk_7EALw_wcB"
   },
   {
@@ -53,6 +60,7 @@
     "marca": "HUAWEI",
     "modelo": "HUAWEI P20",
     "tamano": "64GB",
+    "precio": "189,89€",
     "url": "https://www.pccomponentes.com/huawei-p20-lite-64gb-azul-libre"
   }
 ]

@@ -9,7 +9,7 @@ import videojuegos from 'src/app/files/videojuegos.json';
 })
 export class VideojuegosComponent implements OnInit {
 
-  videojuegoss : {imagen: string, juego: string, plataforma: string, url: string}[] = videojuegos;
+  videojuegoss : {imagen: string, juego: string, plataforma: string, precio: string,  url: string}[] = videojuegos;
 
   constructor() { }
 

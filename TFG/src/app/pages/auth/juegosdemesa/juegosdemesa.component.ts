@@ -8,7 +8,7 @@ import juegosdemesa from 'src/app/files/juegosdemesa.json'
 })
 export class JuegosdemesaComponent implements OnInit {
 
-  juegosdemesas : {imagen: string, nombre: string, minedad: string, minjugadores: string, url: string}[] = juegosdemesa;
+  juegosdemesas : {imagen: string, nombre: string, minedad: string, minjugadores: string, precio: string, url: string}[] = juegosdemesa;
 
   constructor() { }
 

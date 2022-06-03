@@ -8,7 +8,7 @@ import albumesmusica from 'src/app/files/albumesmusica.json'
 })
 export class AlbumesmusicaComponent implements OnInit {
 
-  albumes : {imagen: string, nombre: string, cantante: string, numerocanciones: string, url: string}[] = albumesmusica;
+  albumes : {imagen: string, nombre: string, cantante: string, numerocanciones: string, precio: string, url: string}[] = albumesmusica;
 
   constructor() { }
 
