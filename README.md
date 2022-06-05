@@ -16,7 +16,7 @@ Después de esto lo único que debemos hacer es ejecutar en la terminal el coman
 
 Ahora ya tendremos la página web funcionando en nuestro navegador.
 
-
+![image](https://raw.githubusercontent.com/Aitor-tercero/TFG/main/TFG/src/assets/images/readme3.png)
 
 INGLÉS:
 
@@ -34,3 +34,4 @@ After this, all we have to do is execute the ng serve command in the terminal, t
 
 Now we will have the web page running in our browser.
 
+![image](https://raw.githubusercontent.com/Aitor-tercero/TFG/main/TFG/src/assets/images/readme3.png)
