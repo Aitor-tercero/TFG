@@ -14,4 +14,4 @@ Después de esto lo único que debemos hacer es ejecutar en la terminal el coman
 
 Ahora ya tendremos la página web funcionando en nuestro navegador.
 
-![image]https://raw.githubusercontent.com/Aitor-tercero/TFG/main/TFG/src/assets/images/readme3.png
+![image](https://raw.githubusercontent.com/Aitor-tercero/TFG/main/TFG/src/assets/images/readme3.png)
