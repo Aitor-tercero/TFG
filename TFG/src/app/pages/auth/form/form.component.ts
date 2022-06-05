@@ -5,6 +5,7 @@ import { AuthService } from '@auth/services/auth.services';
 import { ACTIONS } from '@shared/constants/constants';
 import { ApiError, User, UserCredentials } from '@supabase/supabase-js';
 import { ToastrService } from 'ngx-toastr';
+
 export interface OptionsForm{
   id:string;
   label:string;
