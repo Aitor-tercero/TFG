@@ -13,6 +13,7 @@ import { ZapatillasComponent } from '@auth/zapatillas/zapatillas.component';
 import { CamisetasfutbolComponent } from '@auth/camisetasfutbol/camisetasfutbol.component';
 import { AlbumesmusicaComponent } from '@auth/albumesmusica/albumesmusica.component';
 import { AyudaComponent } from '@auth/ayuda/ayuda.component';
+import { ContactoComponent } from './pages/auth/contacto/contacto.component';
 
 
 @NgModule({
@@ -24,7 +25,8 @@ import { AyudaComponent } from '@auth/ayuda/ayuda.component';
     ZapatillasComponent,
     CamisetasfutbolComponent,
     AlbumesmusicaComponent,
-    AyudaComponent
+    AyudaComponent,
+    ContactoComponent
   ],
   imports: [
     BrowserModule,

@@ -3,6 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { AlbumesmusicaComponent } from '@auth/albumesmusica/albumesmusica.component';
 import { AyudaComponent } from '@auth/ayuda/ayuda.component';
 import { CamisetasfutbolComponent } from '@auth/camisetasfutbol/camisetasfutbol.component';
+import { ContactoComponent } from '@auth/contacto/contacto.component';
 import { AuthGuard } from '@auth/guards/auth.guard'
 import { JuegosdemesaComponent } from '@auth/juegosdemesa/juegosdemesa.component';
 import { MovilesComponent } from '@auth/moviles/moviles.component';
@@ -21,6 +22,7 @@ const routes: Routes = [
 { path: 'camisetasfutbol', component: CamisetasfutbolComponent },
 { path: 'albumesmusica', component: AlbumesmusicaComponent },
 { path: 'ayuda', component: AyudaComponent },
+{ path: 'contacto', component: ContactoComponent },
 { path: '**', redirectTo:'/home', pathMatch:'full'},
 ];
 
