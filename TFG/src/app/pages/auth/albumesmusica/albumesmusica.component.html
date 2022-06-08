@@ -4,17 +4,17 @@
       <div class="card" style="width: 18rem">
         <img src="{{ item.imagen }}" class="card-img-top" />
         <div class="card-body">
-          <h5 class="card-title">
-            {{ item.nombre }}
-          </h5>
+          <h6 class="card-title">
+            DISCO: {{ item.nombre }}
+          </h6>
           <p class="card-text">
-            {{ item.cantante }}
+            CANTANTE: {{ item.cantante }}
           </p>
           <p class="card-text">
-            {{ item.numerocanciones }}
+            NÚMERO DE CANCIONES: {{ item.numerocanciones }}
           </p>
           <p class="card-text">
-            {{ item.precio }}
+            PRECIO: {{ item.precio }}
           </p>
           <a href="{{ item.url }}" class="btn btn-primary" target="_blank">Comprar</a>
         </div>
